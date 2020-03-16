@@ -1,6 +1,6 @@
 # camera
 
-access to camera
+access to camera from flutter
 
 ## Getting Started
 
